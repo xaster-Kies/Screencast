@@ -1,7 +1,11 @@
 <template>
-  <h1>Videos</h1>
-  <div class="video-container">
+  <div>
+    <h1>Videos</h1>
+    <div class="video-container">
+      <div>
 
+      </div>
+    </div>
   </div>
 </template>
 
