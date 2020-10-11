@@ -6,5 +6,14 @@ import VideoWatch from "../views/VideoWatch.vue";
 
 Vue.use(VueRouter);
 
-const
+const routes = [
+    {
+    path: "/",
+    name: "home",
+    component: Home
+    },
+    {
+        path: "/about"
+    }
+];
 
