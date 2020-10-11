@@ -13,7 +13,10 @@ const routes = [
     component: Home
     },
     {
-        path: "/about"
+        path: "/about",
+        name: "about",
+
+        component: () =>
     }
 ];
 
