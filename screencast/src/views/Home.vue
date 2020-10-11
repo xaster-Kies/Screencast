@@ -14,6 +14,7 @@
 
 <script>
 export default {
+    
     data() {
     return {
       videos: [
@@ -39,8 +40,10 @@ export default {
         },
       ]
     }
-}
-</script>
+    
+    </script>
+
+
 
 <style lang='scss' scoped>
 .video-container {
