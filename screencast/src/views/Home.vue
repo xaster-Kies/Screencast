@@ -14,8 +14,11 @@
 
 <script>
 export default {
-    name: 'App',
-    data() {
+  name: 'Home',
+  components: {
+    
+  },
+  data() {
     return {
       videos: [
         {
@@ -40,6 +43,9 @@ export default {
         },
       ]
     }
+  }
+
+}
     
     </script>
 
