@@ -2,8 +2,8 @@
   <div>
     <h1>Videos</h1>
     <div class="video-container">
-      <div v-for="video in videos">
-
+      <div v-for="video in videos" :key="video.name">
+        <h3>{{video.name}}</h3>
       </div>
     </div>
   </div>
