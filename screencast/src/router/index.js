@@ -19,7 +19,7 @@ const routes = [
         
     },
     {
-        path: "/video/:id",
+        path: "/video/",
         name: "video-watch",
         component: VideoWatch
     },
