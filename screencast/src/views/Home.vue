@@ -43,8 +43,6 @@ export default {
 </script>
 
 <style lang='scss' scoped>
-
-
 .video-container {
     .video-box {
       border: 1px solid black;
