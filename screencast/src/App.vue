@@ -3,6 +3,7 @@
     <h1>Videos</h1>
     <div class="video-container">
       <div v-for="video in videos" :key="video.name" class="video-box">
+        <img src="https://www.educative.io/api/page/5330288608542720/image/download/6288755792019456" alt="img">
         <h3>{{video.name}}</h3>
         <div v-html="video.description"></div>
       </div>
@@ -60,6 +61,7 @@ export default {
       border-radius: 10px;
       margin: 10px;
       padding: 10px;
+      text-align: left;
     }
   }
 </style>
