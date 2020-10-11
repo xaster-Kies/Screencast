@@ -56,6 +56,9 @@ export default {
 .video-container {
     .video-box {
       border: 1px solid black;
+      border-radius: 10px;
+      margin: 10px;
+      padding: 10px;
     }
   }
 </style>
