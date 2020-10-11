@@ -4,6 +4,7 @@
     <div class="video-container">
       <div v-for="video in videos" :key="video.name" class="video-box">
         <h3>{{video.name}}</h3>
+        <div v-html="video.description"></div>
       </div>
     </div>
   </div>
