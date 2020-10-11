@@ -45,6 +45,11 @@ export default {
 
 <style scoped lang="scss">
 
-</style>>
+  .video-container {
+    .video-box {
+      border: 1px;
+    }
+  }
 
 </style>
+
