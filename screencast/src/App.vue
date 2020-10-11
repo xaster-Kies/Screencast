@@ -41,7 +41,8 @@ export default {
         },
         {
           name: "ES2015 Modules",
-          description: '<p>An ES6 module is a file containing JS code. There’s no special module keyword; a module mostly reads just like a script. There are two differences.</p>'
+          description: '<p>An ES6 module is a file containing JS code. There’s no special module keyword; a module mostly reads just like a script. There are two differences.</p>',
+          thumbnail: 'https://www.educative.io/api/page/5330288608542720/image/download/6288755792019456'
         },
       ]
     }
@@ -70,8 +71,9 @@ export default {
       display: flex;
       justify-content: flex-start;
       img {
-        max-height: 150px;
+        width: 200px;
         padding: 10px;
+        
       }
     }
   }
