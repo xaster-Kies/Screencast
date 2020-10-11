@@ -62,6 +62,12 @@ export default {
       margin: 10px;
       padding: 10px;
       text-align: left;
+      display: flex;
+      justify-content: flex-start;
+      img {
+        max-height: 150px;
+        padding: 10px;
+      }
     }
   }
 </style>
