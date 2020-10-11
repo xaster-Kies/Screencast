@@ -2,7 +2,7 @@
   <div>
     <h1>Videos</h1>
     <div class="video-container">
-      <div>
+      <div v-for="video in videos">
 
       </div>
     </div>
