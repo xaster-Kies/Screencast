@@ -14,7 +14,12 @@ export default {
     return {
       videos: [
         {
-          
+          name: "ES6 Arow Functions",
+          description: '<p>ES6 has some great ways to code which are easier to read and understand</p>'
+        },
+        {
+          name: "Template Strings",
+          description: ''
         }
       ]
     }
