@@ -19,8 +19,12 @@ export default {
         },
         {
           name: "Template Strings",
-          description: ''
-        }
+          description: '<p>Template literals are string literals allowing embedded expressions. You can use multi-line strings and string interpolation features with them.</p>'
+        },
+        {
+          name: "Promise Basics",
+          description: '<p>ES6 has some great ways to code which are easier to read and understand</p>'
+        },
       ]
     }
   }
