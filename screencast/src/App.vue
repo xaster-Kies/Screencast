@@ -1,5 +1,8 @@
 <template>
   <h1>Videos</h1>
+  <div class="video-container">
+
+  </div>
 </template>
 
 <script>
