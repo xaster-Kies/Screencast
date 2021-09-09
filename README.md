@@ -1,2 +1,2 @@
 # Screencast
-This is an app built with VueJs and server side rendering with NuxtJs
+Building a ScreenCast on VueJs Sererside Renderer(NuxtJS)
